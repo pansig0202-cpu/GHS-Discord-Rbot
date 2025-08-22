@@ -1,3 +1,3 @@
-This code is a recreation of the GHS bot
-All credits for Pansi and Alexy 
-xyte x khs
+This code is just a recreation of the GHS bot created by pansi and alexy.
+
+Xyte X Khs 
